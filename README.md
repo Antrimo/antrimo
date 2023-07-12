@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
-<h3 align="center">A 2nd year student pursuing Bachelor's in CSE from India. I am a DevOps and Open-source enthusiast! Currently building projects around App development. I like to build and be a part of amazing communities and learn from others.</h3>
+<h3 align="center">I am a DevOps and Open-source enthusiast! Currently building projects around App development. I like to build and be a part of amazing communities and learn from others.</h3>
 
 - 🔭 I’m currently working on **Flutter Chatgpt Chatbot**
 
