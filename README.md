@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 <h3 align="center">I am a DevOps and Open-source enthusiast! Currently building projects around App development. I like to build and be a part of amazing communities and learn from others.</h3>
 
+<p align="left"> <a href="https://twitter.com/itzkartwt" target="blank"><img src="https://img.shields.io/twitter/follow/itzkartwt?logo=twitter&style=for-the-badge" alt="itzkartwt" /></a> </p>
+
 - 🔭 I’m currently working on **Flutter Chatgpt Chatbot**
 
 - 🌱 I’m currently learning **DevOps and app development**
@@ -11,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/itzkartwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzkartwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antrimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antrimo" height="30" width="40" /></a>
-<a href="https://instagram.com/whereiskaaaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whereiskaaaar" height="30" width="40" /></a>
+<a href="https://instagram.com/whereiskaaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whereiskaaar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/antrimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="antrimo" height="30" width="40" /></a>
 </p>
 
