@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter Chatgpt Chatbot**
 
-- 🌱 I’m currently learning **DevOps and app development**
+- 🌱 I’m currently learning **DevOps and App Development**
 
 - 📫 How to reach me **kartikeyai246@gmail.com**
 
