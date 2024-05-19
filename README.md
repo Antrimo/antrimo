@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
-<h3 align="center">I am a DevOps and Open-source enthusiast! Currently building projects around App development. I like to build and be a part of amazing communities and learn from others.</h3>
+<h3 align="center">I am a Flutter Developer and Open-source enthusiast. I like to build and be a part of amazing communities and learn from others.</h3>
 
 <p align="left"> <a href="https://twitter.com/itzkartwt" target="blank"><img src="https://img.shields.io/twitter/follow/itzkartwt?logo=twitter&style=for-the-badge" alt="itzkartwt" /></a> </p>
 
