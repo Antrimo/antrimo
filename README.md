@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/itzkartwt" target="blank"><img src="https://img.shields.io/twitter/follow/itzkartwt?logo=twitter&style=for-the-badge" alt="itzkartwt" /></a> </p>
 
-- 🔭 I’m currently working on **Mask Detection App**
+- 🔭 I’m currently working on **OMNIA**
 
-- 🌱 I’m currently learning **DevOps and App Development**
+- 🌱 I’m currently learning **Backend and App Development**
 
 - 📫 How to reach me **kartikeyai246@gmail.com**
 
